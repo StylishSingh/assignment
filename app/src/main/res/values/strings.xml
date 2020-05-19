@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BooksApp</string>
+    <string name="not_base_fragment_instance">Fragment is not an instance of BaseFragment</string>
+
+    <!--Fonts-->
+    <string name="font_name_true_montserrat_black">Montserrat-Black.ttf</string>
+    <string name="font_name_true_montserrat_black_italic">Montserrat-BlackItalic.ttf</string>
+    <string name="font_name_true_montserrat_bold">Montserrat-Bold.ttf</string>
+    <string name="font_name_true_montserrat_bold_italic">Montserrat-BoldItalic.ttf</string>
+    <string name="font_name_true_montserrat_extra_bold">Montserrat-ExtraBold.ttf</string>
+    <string name="font_name_true_montserrat_extra_bold_italic">Montserrat-ExtraBoldItalic.ttf</string>
+
+    <string name="font_name_true_montserrat_extra_light">Montserrat-ExtraLight.ttf</string>
+    <string name="font_name_true_montserrat_extra_light_italic">Montserrat-ExtraLightItalic.ttf</string>
+
+    <string name="font_name_true_montserrat_italic">Montserrat-Italic.ttf</string>
+    <string name="font_name_true_montserrat_light">Montserrat-Light.ttf</string>
+    <string name="font_name_true_montserrat_light_italic">Montserrat-LightItalic.ttf</string>
+    <string name="font_name_true_montserrat_medium">Montserrat-Medium.ttf</string>
+    <string name="font_name_true_montserrat_medium_italic">Montserrat-MediumItalic.ttf</string>
+    <string name="font_name_true_montserrat_regular">Montserrat-Regular.ttf</string>
+    <string name="font_name_true_montserrat_semi_bold">Montserrat-SemiBold.ttf</string>
+    <string name="font_name_true_montserrat_semi_bold_italic">Montserrat-SemiBoldItalic.ttf</string>
+    <string name="font_name_true_montserrat_thin">Montserrat-Thin.ttf</string>
+    <string name="font_name_true_montserrat_thin_italic">Montserrat-ThinItalic.ttf</string>
+    <string name="search">Search</string>
+
+
+</resources>
